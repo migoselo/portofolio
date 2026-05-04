@@ -25,7 +25,7 @@ const projects: Project[] = [
     url: "shoos-store.vercel.app",
     gradient: "from-blue-100 via-sky-50 to-indigo-100",
     accent: "from-blue-500 to-sky-500",
-    image: "public/shoos-store.png",
+    image: "/shoos-store.png",
   },
   {
     title: "Stacka",
@@ -36,7 +36,7 @@ const projects: Project[] = [
     url: "web-stacka.vercel.app",
     gradient: "from-indigo-100 via-blue-50 to-cyan-100",
     accent: "from-indigo-500 to-blue-500",
-    image: "public/stacka.png",
+    image: "/stacka.png",
   },
   {
     title: "Loka Monitor",
@@ -48,7 +48,7 @@ const projects: Project[] = [
     url: "loka-monitor.internal",
     gradient: "from-sky-100 via-cyan-50 to-blue-100",
     accent: "from-sky-500 to-cyan-500",
-    image: "public/loka.png",
+    image: "/loka.png",
   },
 ];
 
