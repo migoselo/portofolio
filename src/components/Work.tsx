@@ -32,7 +32,7 @@ const projects: Project[] = [
     label: "02 — Web App",
     desc: "A polished web app project demonstrating modern interface design and component architecture.",
     tech: ["React", "Web App"],
-    link: "https://web-stacka-u8nr.vercel.app/",
+    link: "https://www.getstacka.com/",
     url: "web-stacka.vercel.app",
     gradient: "from-indigo-100 via-blue-50 to-cyan-100",
     accent: "from-indigo-500 to-blue-500",
